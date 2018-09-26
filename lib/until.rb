@@ -3,7 +3,7 @@ def using_until
         counter = log10
         puts "Wingardium Leviosa"
         counter += 1
-        
+      end
     
 end
 
